@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rss Reader</string>
+    <string name="action_settings">Paramètres</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="color">Color</string>
+    <!-- <string name="urle">https://www.lemonde.fr/rss/une.xml</string>
+    <string name="urle2">https://www.lemonde.fr/m-le-mag/rss_full.xml</string> -->
+</resources>

@@ -1,6 +1,5 @@
 # projetandroid
 
 alex170700 = alexandre michalik 
-cyril.frt = cyril fourot 
-N0CTURIO = augustin salmon 
+cyril.frt = cyril fourot  
 weztons = titouan lefebvre 
